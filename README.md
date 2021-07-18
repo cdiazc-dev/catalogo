@@ -33,7 +33,6 @@ https://medium.com/tech-insights/how-to-deploy-angular-apps-to-github-pages-gh-p
 ## Pasos
 git checkout gh-pages
 git pull origin develop
-git push origin gh-pages
 npm install -g angular-cli-ghpages
 ng build --prod --base-href https://mapish.github.io/catalogo/
 ngh --dir=dist/catalogo

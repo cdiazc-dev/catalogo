@@ -29,3 +29,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Guía de deploy
 
 https://medium.com/tech-insights/how-to-deploy-angular-apps-to-github-pages-gh-pages-896c4e10f9b4
+
+## Pasos
+git checkout gh-pages
+git pull origin develop
+git push origin gh-pages
+npm install -g angular-cli-ghpages
+ng build --prod --base-href https://mapish.github.io/catalogo/
+ngh --dir=dist/catalogo

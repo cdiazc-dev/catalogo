@@ -160,5 +160,108 @@
                 "description": "Sauco, Chirimoya, Aguaymanto"
             }]
         }]
+    },
+    {
+        "title": "Mermeladas y jalea de frutas",
+        "image": "./assets/images/products/mermelada-jalea.png",
+        "details": [{
+            "description": "Frutos de aguaymanto, arándano, naranja, sauco, piña y otros"
+        }, {
+            "description": "Peso aprox. 250g"
+        }],
+        "subproducts": []
+    },
+    {
+        "title": "Mantequilla",
+        "image": "./assets/images/products/mantequilla.png",
+        "details": [{
+            "description": "Realizado con 100% leche"
+        }, {
+            "description": "Peso aprox. 200g"
+        }],
+        "subproducts": []
+    },
+    {
+        "title": "Manjar blanco",
+        "image": "./assets/images/products/manjar-blanco.png",
+        "details": [{
+            "description": "Realizado con 100% leche"
+        }, {
+            "description": "Disponible manjar frutado de sauco, mora, lúcuma, fresa, coco entre otros"
+        }],
+        "subproducts": [{
+            "title": "Pequeño",
+            "details": [{
+                "description": "Peso aprox. 200g"
+            }]
+        }, {
+            "title": "Mediano",
+            "details": [{
+                "description": "Peso aprox. 500g"
+            }]
+        }, {
+            "title": "Grande",
+            "details": [{
+                "description": "Peso aprox. 1kg"
+            }]
+        }, {
+            "title": "Balde",
+            "details": [{
+                "description": "Peso aprox. 20kg"
+            }]
+        }]
+    },
+    {
+        "title": "Queso tipo suizo y mantecoso",
+        "image": "./assets/images/products/queso.png",
+        "details": [{
+            "description": "Realizado con 100% leche"
+        }],
+        "subproducts": [{
+            "title": "Queso suizo mediano",
+            "details": [{
+                "description": "Peso aprox. 500g"
+            }]
+        }, {
+            "title": "Queso suizo grande",
+            "details": [{
+                "description": "Peso aprox. 1kg"
+            }]
+        }, {
+            "title": "Queso mantecoso mediano",
+            "details": [{
+                "description": "Peso aprox. 500g"
+            }]
+        }, {
+            "title": "Queso mantecoso grande",
+            "details": [{
+                "description": "Peso aprox. 1kg"
+            }]
+        }]
+    }, {
+        "title": "Miel de abeja",
+        "image": "./assets/images/products/miel.png",
+        "details": [{
+            "description": "100% pura"
+        }, {
+            "description": "Peso aprox. 250g"
+        }],
+        "subproducts": []
+    }, {
+        "title": "Miel de abeja en botella",
+        "image": "./assets/images/products/miel-botella.png",
+        "details": [{
+            "description": "100% pura"
+        }, {
+            "description": "Peso aprox. 750ml"
+        }],
+        "subproducts": []
+    }, {
+        "title": "Natilla",
+        "image": "./assets/images/products/natilla.png",
+        "details": [{
+            "description": "Peso aprox. 250g"
+        }],
+        "subproducts": []
     }
 ]
